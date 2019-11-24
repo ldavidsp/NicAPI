@@ -104,4 +104,4 @@ dist
 .tern-port`
 
 # DB Connection File
-connection.js
+uridb.js
